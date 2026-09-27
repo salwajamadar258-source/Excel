@@ -1,4 +1,4 @@
-🛒 DMart Sales Analysis Dashboard
+🛒 DMart Sales Analytics  Dashboard
 📊 Project Overview
 
 This project presents an interactive DMart Sales Analysis Dashboard developed to analyze sales performance, revenue, profit, product categories, customer segments, and regional performance.
